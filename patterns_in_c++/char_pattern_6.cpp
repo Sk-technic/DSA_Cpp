@@ -2,9 +2,9 @@
 using namespace std;
 
 // A
-// BB
-// CCC
-// DDDD
+// BC
+// CDE
+// DEFG
 
 int main(){
     int i = 1;
